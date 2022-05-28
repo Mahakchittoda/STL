@@ -1,1 +1,1 @@
-# STL
+# STL : C++ Standard library
